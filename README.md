@@ -1,8 +1,8 @@
 # 2019-Kaggle-Bowl
 
 This is from 2019 Kaggle bowl competetion- https://www.kaggle.com/c/data-science-bowl-2019/overview
-Feature engineering done in two different versions differently. Best cohen-Kappa score .50 for Kaggle submision 
-where top score is .57.
+<br> Feature engineering done in two different versions differently. 
+<br> Best cohen-Kappa score .50 for Kaggle submision where top score is .57.
 
 ## Description and Challenge of the project¶
 
