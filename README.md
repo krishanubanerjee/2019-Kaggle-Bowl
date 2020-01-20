@@ -4,7 +4,7 @@ This is from 2019 Kaggle bowl competetion- https://www.kaggle.com/c/data-science
 <br> Feature engineering done in two different versions differently. 
 <br> Best cohen-Kappa score .50 for Kaggle submision where top score is .57.
 
-## Description and Challenge of the project¶
+## Description and Challenge 
 
 In this project game analytics data for kids given by PBS KIDS. In this app kids can play
 games, watch clips and perform different activities and after some game session they are assigned
